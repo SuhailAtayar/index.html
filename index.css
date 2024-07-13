@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.id{
+    padding-left: 5%;
+
+}
+.abc{
+    padding-left: 5%;
+}
+.js{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: flex-end;
+}
+.video{
+    width: 500px;
+    height: auto;
+    padding-left: 5%;
+}
+.ida{
+    padding-left: 5%;
+    
+}
+.idb{
+    padding-left: 5%;
+}
+.asd{
+    padding-left: 5%;
+    font-size: 20px;
+}
+.asu{
+    padding-left: 5%;
+}
+.me{
+    margin-top: 15px;
+    margin-bottom: 15px;  
+}
+.we{
+    width: 70px;
+    height: 30px;
+    margin-bottom: 30px;
+}
+.wea{
+    margin-bottom: 30px ;
+}
